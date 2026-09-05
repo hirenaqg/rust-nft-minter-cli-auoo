@@ -1,0 +1,4 @@
+# Generated deps — tag c5fa2a63
+click>=8.1.0,<9
+httpx>=0.27.0,<1
+requests>=2.31.0,<3
