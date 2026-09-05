@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (c5fa2a63184bfd5d)
+project:
+  name: rust-nft-minter-cli-auoo
+  tag: c5fa2a63184bfd5d
+  env: production
+cfg_bufferp59lpk:
+  enabled: true
+  workers: 4
+cfg_bridge6tx380:
+  timeout_sec: 41
+  retry: 2
+cfg_shardo6rpcs:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
